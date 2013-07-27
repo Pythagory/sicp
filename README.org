@@ -1,3 +1,9 @@
+* What's up with this fork?
+
+  Google Play Books rejects the output .epub file from this source, and running it through 
+  epubcheck generates a list of errors and warnings a mile long. This is an attempt clean up
+  the markup and make an epub copy of the book that is compliant with the spec.
+
 * What is this?
 
   This is the seminal Structure and Interpretation of Computer
